@@ -40,7 +40,7 @@ services:
     depends_on:
       - openldap
     networks:
-      - openldap
+      - organization
 
 networks:
   openldap:
