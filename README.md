@@ -11,3 +11,6 @@ Notas importantes:
   3. para ejecutar los contenedores, en ambiente de desarrolo,se debe correr el siguiente comando en la consola de comandos: docker-compose -f loca.yml up
 
   4. para ejecutar los contenedores, en ambiente de staging,se debe correr el siguiente comando en la consola de comandos: docker-compose -f production.yml up
+
+  5. para ingresar al administrador solo debe digitar "localhost" en la barra de dirección del navegador.
+
